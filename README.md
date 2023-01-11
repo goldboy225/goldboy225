@@ -13,8 +13,3 @@
 - 👯 [Cyber Security](https://github.com/goldboy225/cyber-security): This is the coding repo related to cyber security involving network intrusion detection using well-known datasets like KDD cup ‘99, NSL-KDD, UNSW_NB15.
 - 🤔 [Awesome Machine Learning](https://github.com/goldboy225/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software.
 - 📫 [Awesome ML for Cybersecurity](https://github.com/goldboy225/awesome-ml-for-cybersecurity): A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
-
-
-![image](https://user-images.githubusercontent.com/22785858/211835558-c9c4d912-8f20-410e-8ba6-44c3c0af7b53.png)
-
-The source of the following machine learning topics map is this [wonderful blog post](https://vas3k.ru/blog/machine_learning/)
