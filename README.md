@@ -18,5 +18,4 @@
 - 🔭 [Code Base for Research](https://github.com/goldboy225/Code-Base-for-Research): The coding practice involving data cleaning, data visualization, exploration data analysis, feature selection, machine learning and deep learning.
 - 🌱 [Data Exploration Analysis](https://github.com/goldboy225/Python_EDA): This is EDA coding practice repo and is the part of the materials for the subject High Performance Data Processing by my supervisor.
 - 👯 [Cyber Security](https://github.com/goldboy225/cyber-security): This is the coding repo related to cyber security involving network intrusion detection using well-known datasets like KDD cup ‘99, NSL-KDD, UNSW_NB15.
-- 🤔 [Awesome Machine Learning](https://github.com/goldboy225/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software.
 - 📫 [Awesome ML for Cybersecurity](https://github.com/goldboy225/awesome-ml-for-cybersecurity): A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
