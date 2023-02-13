@@ -16,6 +16,7 @@
 
 - 📚 [The Things of PhD Journey](https://github.com/goldboy225/PhD-Journey): All the things involving research knowledge, publication, practical skills, awesome courses, domain area expertise, and all the necessary and interesting things will be collected and synthesized for who want to try and pursue the PhD journey (will keep updating).
 - 🔭 [Code Base for Research](https://github.com/goldboy225/Code-Base-for-Research): The coding practice involving data cleaning, data visualization, exploration data analysis, feature selection, machine learning and deep learning.
+- 📫 [ChatGPT for Research](https://github.com/goldboy225/ChatGPT-for-Research): Repo for the stuff that created by ChatGPT, let's see how ChatGPT can help on research work.
 - 🌱 [Construction of IoT Security Frameworks](https://github.com/goldboy225/Intelligent-IoT-Security-Frameworks): This is the coding practice repo of constructing end-to-end machine learning and deep learning-based security frameworks for IoT security.
 - 👯 [Cyber Security](https://github.com/goldboy225/cyber-security): This is the coding repo related to cyber security involving network intrusion detection using well-known datasets like KDD cup ‘99, NSL-KDD, UNSW_NB15.
 - 📫 [Awesome ML for Cybersecurity](https://github.com/goldboy225/awesome-ml-for-cybersecurity): A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
