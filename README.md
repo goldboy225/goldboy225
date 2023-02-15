@@ -1,4 +1,4 @@
-### Hi there 👋
+### :octocat: Hi there 👋
 
 <a href="https://github.com/goldboy225/research-material/stargazers"><img src="https://img.shields.io/github/stars/goldboy225/PhD-Journey" alt="Stars Badge"/></a>
 <a href="https://github.com/goldboy225/research-material/network/members"><img src="https://img.shields.io/github/forks/goldboy225/PhD-Journey" alt="Forks Badge"/></a>
