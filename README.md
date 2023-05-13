@@ -7,7 +7,7 @@
 <a href="https://github.com/goldboy225/research-material/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/goldboy225/PhD-Journey?color=2b9348"></a>
 ![](https://visitor-badge.glitch.me/badge?page_id=goldboy225)
 
-😄 My name is Jing, and I'm pursuing PhD in computer science in UTM.
+😄 My name is Jing, and I'm in my PhD journey in Computer Science.
 - I'm currently working on an intelligent security framework for the IoT ecosystem utilising machine learning and deep learning. 
 - In order to implement this security model, a wide range of multidisciplinary expertise including cyber security, the internet of things, intrusion detection and prevention, anomaly detection, machine learning, and deep learning must be studied and put into practise.
 - Therefore, thanks to the github to provide the playground for me to create and maintain multiple knowledge repositories.
