@@ -1,6 +1,6 @@
 ### :octocat: Hi there 👋
 
-😄 Hi, I'm Dr. Jing, PhD in Computer Science, specializing in artificial intelligence, the Internet of Things, and computer networks.
+I'm Dr. Jing, PhD in Computer Science, specializing in artificial intelligence, the Internet of Things, and computer networks.
 - Experienced extensive learning and working in China, the US, and Malaysia in industry and academia; 
 - Enjoyed experience on R&D of image processing, mobile communications, and distributed networks in industry, while focusing on machine learning, deep learning, big data, computer networks, and IoT security in academia. 
 - Published many SCI journal papers in Elsevier, IEEE, Springer Nature, and Inder Science, and authored books with Eliva Press and Xidian Press. 
