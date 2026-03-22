@@ -11,9 +11,9 @@ I’m **Dr. Li Jing** — [Assistant Professor @ XMUM](https://www.xmu.edu.my/st
 
 🚀 Currently interested in:
 
-* AI for real-world systems
-* Intelligent networking & IoT
-* Turning ideas → experiments → papers
+* 🧠 Thinking in AI  
+* 🌐 Connecting things (IoT)  
+* ⚡ Turning sparks into ideas  
 
 💡 I believe:
 
