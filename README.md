@@ -3,20 +3,17 @@
 I’m **Dr. Li Jing** — [Assist. Professor @ XMUM](https://www.xmu.edu.my/staff/asst-prof-dr-li-jing)
 
 💡 I work on **AI, IoT, and networks**, exploring how intelligent systems can make real-world environments smarter and more connected.
-
 * 🌍 Lived & worked across **China 🇨🇳, US 🇺🇸, and Malaysia 🇲🇾**
 * 🔬 Experience in both **industry R&D** and **academic research**
 * 📚 Published in **IEEE, Elsevier, Springer**, etc.
 * 🤝 Expert Member of **IEEE & CCF**
 
 🚀 Currently interested in:
-
-* 🧠 Thinking in AI  
-* 🌐 Connecting things (IoT)  
-* ⚡ Turning sparks into ideas  
+* 🧠 Thinking in AI, wanna plan with AI? Ping me...
+* 🌐 Connecting things (IoT), both you and machines are the things, right?
+* ⚡ Turning sparks into ideas, methods, experiments, papers, and finally insights.
 
 💡 I believe:
-
 > Small ideas, when captured and shared, can grow into meaningful research.
 
 📌 Building: **All_Inspire_Together**
