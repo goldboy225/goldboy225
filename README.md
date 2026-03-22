@@ -4,14 +4,10 @@ I’m **Dr. Li Jing** — [Assistant Professor @ XMUM](https://www.xmu.edu.my/st
 
 💡 I work on **AI, IoT, and networks**, exploring how intelligent systems can make real-world environments smarter and more connected.
 
----
-
 🌍 Lived & worked across **China 🇨🇳, US 🇺🇸, and Malaysia 🇲🇾**
 🔬 Experience in both **industry R&D** and **academic research**
 📚 Published in **IEEE, Elsevier, Springer**, etc.
 🤝 Expert Member of **IEEE & CCF**
-
----
 
 🚀 Currently interested in:
 
@@ -19,17 +15,12 @@ I’m **Dr. Li Jing** — [Assistant Professor @ XMUM](https://www.xmu.edu.my/st
 * Intelligent networking & IoT
 * Turning ideas → experiments → papers
 
----
-
 💡 I believe:
 
 > Small ideas, when captured and shared, can grow into meaningful research.
 
----
-
 📌 Building: **All_Inspire_Together**
 (A tiny system to collect sparks of ideas ✨)
-
 
 📚 Here are some topics in my repos:
 - 👯 [All Inspire Together for Awesome Ideas](https://github.com/goldboy225/All_Inspire_Together)]: A growing collection of ideas sparked while reading research papers.
