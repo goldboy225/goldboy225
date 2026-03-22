@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I’m **Dr. Li Jing** — [Assistant Professor @ XMUM](https://www.xmu.edu.my/staff/asst-prof-dr-li-jing)
+I’m **Dr. Li Jing** — [Assist Professor @ XMUM](https://www.xmu.edu.my/staff/asst-prof-dr-li-jing)
 
 💡 I work on **AI, IoT, and networks**, exploring how intelligent systems can make real-world environments smarter and more connected.
 
