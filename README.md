@@ -1,12 +1,35 @@
-### :octocat: Hi there 👋
+# 👋 Hi there
 
-I'm Dr. Jing, PhD in Computer Science, specializing in artificial intelligence, the Internet of Things, and computer networks.
-- Experienced extensive learning and working in China, the US, and Malaysia in industry and academia; 
-- Enjoyed experience on R&D of image processing, mobile communications, and distributed networks in industry, while focusing on machine learning, deep learning, big data, computer networks, and IoT security in academia. 
-- Published many SCI journal papers in Elsevier, IEEE, Springer Nature, and Inder Science, and authored books with Eliva Press and Xidian Press. 
-- Served as the editorial and peer reviewer for several top SCI journals and conferences, including KBS, EAAI, ESWA, IEEE-IoTJ, IoT, Computer Networks, NLAI, DSML,  MLCL, SIGML, etc. 
-- As an IEEE and CCF member, I actively collaborate with start-ups in AI-based IoT and digital twins and promote AI applications.
-- Show great enthusiasm with intensive on-hand practicing on AI for science and academics, including research, experimentation, writing, detection, and publication, etc.
+I’m **Dr. Li Jing** — [Assistant Professor @ XMUM](https://www.xmu.edu.my/staff/asst-prof-dr-li-jing)
+
+💡 I work on **AI, IoT, and networks**, exploring how intelligent systems can make real-world environments smarter and more connected.
+
+---
+
+🌍 Lived & worked across **China 🇨🇳, US 🇺🇸, and Malaysia 🇲🇾**
+🔬 Experience in both **industry R&D** and **academic research**
+📚 Published in **IEEE, Elsevier, Springer**, etc.
+🤝 Expert Member of **IEEE & CCF**
+
+---
+
+🚀 Currently interested in:
+
+* AI for real-world systems
+* Intelligent networking & IoT
+* Turning ideas → experiments → papers
+
+---
+
+💡 I believe:
+
+> Small ideas, when captured and shared, can grow into meaningful research.
+
+---
+
+📌 Building: **All_Inspire_Together**
+(A tiny system to collect sparks of ideas ✨)
+
 
 📚 Here are some topics in my repos:
 - 👯 [All Inspire Together for Awesome Ideas](https://github.com/goldboy225/All_Inspire_Together)]: A growing collection of ideas sparked while reading research papers.
